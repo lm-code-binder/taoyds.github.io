@@ -1,0 +1,12 @@
+
+students:
+    - name: "Tianbao Xie"
+      time: "Fall 2022"
+      title: "PhD student"
+      category: "current"
+      link: "https://tianbaoxie.com"
+    - name: "Hongjin Su"
+        time: "Fall 2022"
+        title: "PhD student"
+        category: "current"
+        link: "https://hongjin-su.github.io"
